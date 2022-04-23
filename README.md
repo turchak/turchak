@@ -31,10 +31,8 @@ Frontend Developer
 
 <p align="left"> <a href="https://www.facebook.com/turchaks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/turchak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/turchaks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/turchak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/turchak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/turchaks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+### GitHub Stats
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/turchak"><img src="https://github-readme-stats.vercel.app/api?username=turchak&show_icons=true&hide=prs,&count_private=true&title_color=3382ed&text_color=000000&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="turchak's GitHub stats" /></a>
+<a href="http://www.github.com/turchak"><img src="https://github-readme-stats.vercel.app/api?username=turchak&show_icons=true&hide=prs,&count_private=true&title_color=3382ed&text_color=000000&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
 
 <a href="http://www.github.com/turchak"><img src="https://github-readme-streak-stats.herokuapp.com/?user=turchak&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
