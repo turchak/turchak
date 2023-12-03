@@ -4,7 +4,7 @@
 Frontend Developer
 ------------------
 
-* 🌍  I'm based in Kyiv, Ukraine 🇺🇦
+* 🌍  Ukraine 🇺🇦
 * ✉️  You can contact me at [turchaksv@gmail.com](mailto:turchaksv@gmail.com)
 * 🚀  I'm currently working on [BlockEarner](http://blockearner.com.au)
 * 🧠  I'm learning React Native
